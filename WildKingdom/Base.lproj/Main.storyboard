@@ -20,10 +20,6 @@
                                 <rect key="frame" x="0.0" y="431" width="320" height="49"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="49" id="634-1K-NNW"/>
-                                    <constraint firstAttribute="height" constant="49" id="E4M-RZ-mBA"/>
-                                </constraints>
                                 <items>
                                     <tabBarItem title="Lions" id="8VP-i9-aqh"/>
                                     <tabBarItem title="Tigers" id="fbn-a1-wKV"/>
@@ -113,16 +109,13 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="mPw-Tr-11n" firstAttribute="leading" secondItem="ymH-28-hgp" secondAttribute="leading" id="2oo-pS-7dD"/>
-                            <constraint firstItem="ymH-28-hgp" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="3zj-1I-Ahr"/>
-                            <constraint firstAttribute="trailing" secondItem="ymH-28-hgp" secondAttribute="trailing" id="81a-m4-vBA"/>
-                            <constraint firstItem="ymH-28-hgp" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="C8N-Pg-kHx"/>
-                            <constraint firstItem="mPw-Tr-11n" firstAttribute="bottom" secondItem="ymH-28-hgp" secondAttribute="top" id="Z0L-Mn-iMe"/>
-                            <constraint firstItem="mPw-Tr-11n" firstAttribute="top" secondItem="n1v-Qg-Ral" secondAttribute="bottom" constant="1" id="ZPb-Sd-tpO"/>
-                            <constraint firstItem="mPw-Tr-11n" firstAttribute="trailing" secondItem="ymH-28-hgp" secondAttribute="trailing" id="gOv-pc-0c6"/>
-                            <constraint firstAttribute="bottom" secondItem="ymH-28-hgp" secondAttribute="bottom" id="gwb-7P-hhp"/>
-                            <constraint firstAttribute="bottom" secondItem="ymH-28-hgp" secondAttribute="bottom" id="kWu-fO-qeF"/>
-                            <constraint firstAttribute="trailing" secondItem="ymH-28-hgp" secondAttribute="trailing" id="q8i-gF-4q1"/>
+                            <constraint firstItem="mPw-Tr-11n" firstAttribute="top" secondItem="n1v-Qg-Ral" secondAttribute="bottom" constant="1" id="BGe-PF-68h"/>
+                            <constraint firstAttribute="bottom" secondItem="ymH-28-hgp" secondAttribute="bottom" id="CTU-VI-3g7"/>
+                            <constraint firstItem="mPw-Tr-11n" firstAttribute="trailing" secondItem="ymH-28-hgp" secondAttribute="trailing" id="Sal-wW-Y7i"/>
+                            <constraint firstItem="mPw-Tr-11n" firstAttribute="leading" secondItem="ymH-28-hgp" secondAttribute="leading" id="Vct-lC-zgI"/>
+                            <constraint firstAttribute="trailing" secondItem="mPw-Tr-11n" secondAttribute="trailing" id="jV2-Ja-bjD"/>
+                            <constraint firstItem="mPw-Tr-11n" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="kkg-LP-lnm"/>
+                            <constraint firstItem="ymH-28-hgp" firstAttribute="top" secondItem="mPw-Tr-11n" secondAttribute="bottom" id="qHC-Jb-P0e"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="e9s-3N-HOv"/>

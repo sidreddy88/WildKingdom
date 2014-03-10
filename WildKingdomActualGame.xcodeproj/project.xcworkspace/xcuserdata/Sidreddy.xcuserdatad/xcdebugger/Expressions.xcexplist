@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController collectionView:didSelectItemAtIndexPath:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "labelDisplayedAtTheBackOfTheCard.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__50-[ViewController getPlaceInfoForThePhoto:forCell:]_block_invoke:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController collectionView:cellForItemAtIndexPath:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "photoCell.selected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController prepareForSegue:sender:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController collectionView:didDeselectItemAtIndexPath:]:ViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
