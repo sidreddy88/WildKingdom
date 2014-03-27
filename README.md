@@ -6,7 +6,7 @@ Key features
 
    - Displays photos of lion, tigers and bears
    - Find the particular place where the photo was taken
-   - Also, find other artwork by a particular photographer
+   - Find other artwork by a particular photographer
    
 Technologies used
 
