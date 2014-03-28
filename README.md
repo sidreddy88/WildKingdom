@@ -4,8 +4,8 @@ WildKingdom
 Key features
 
    - Displays photos of lion, tigers and bears
-   - Find the particular place where the photo was taken
-   - Find other artwork by a particular photographer
+   - Shows the location where the photo was taken
+   - Displays other artwork by a particular photographer
    
 Technologies used
 
