@@ -1,6 +1,5 @@
 WildKingdom
 ===========
-Displays photos of lions, tigers and bears. 
 
 Key features
 
