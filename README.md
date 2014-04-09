@@ -3,7 +3,7 @@ WildKingdom
 
 Key features
 
-   - Displays photos of lion, tigers and bears
+   - Displays photos of lions, tigers and bears
    - Shows the location where the photo was taken
    - Displays other artwork by a particular photographer
    
